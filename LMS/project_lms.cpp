@@ -1,8 +1,5 @@
 //**************** LIBRARY MANAGEMENT SYSTEM *****************
 
-//srishti 1913643
-//suhana 1913645
-
 #include<bits/stdc++.h>
 #include<iostream>
 #include<fstream>
